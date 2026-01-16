@@ -19,7 +19,7 @@ Customer Management Application – Full-featured web app built with Python, Fla
 - Tools: Git, GitHub, VS Code
 
  📫 Connect With Me
-- LinkedIn: [linkedin.com/in/diallowillams](https://linkedin.com/in/diallowillams)
+- LinkedIn: [linkedin.com/in/diallo-williams](https://www.linkedin.com/in/diallo-williams/)
 - Location: Brooklyn, NY
 - Open to: Entry-level software development, apprenticeships, technical support roles
 
